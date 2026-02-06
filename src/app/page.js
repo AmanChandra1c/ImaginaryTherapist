@@ -6,6 +6,7 @@ import MySpecialties from "@/components/MySpecialties";
 import Professional from "@/components/Professional";
 import Second from "@/components/LiveCalm";
 import Started from "@/components/Started";
+import Office from "@/components/Office";
 
 export default function Home() {
   return (
@@ -14,11 +15,12 @@ export default function Home() {
         <Hero />
         <Second />
         <MySpecialties />
-        <Alone/>
+        <Alone />
         <Chat />
+        <Office />
         <FAQs />
         <Professional />
-        <Started/>
+        <Started />
       </div>
     </>
   );

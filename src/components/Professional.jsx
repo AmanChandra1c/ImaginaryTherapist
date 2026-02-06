@@ -24,7 +24,7 @@ const Professional = () => {
   };
 
   return (
-    <section className="bg-foreground">
+    <section className="">
       <main className="container mx-auto px-4 sm:py-24 py-12 mt-8">
         {/* Heading */}
         <h2 className="text-4xl sm:text-5xl font-semibold text-center font-sans-serif">

@@ -24,7 +24,7 @@ const FAQs = () => {
   };
 
   return (
-    <main className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 sm:py-32">
+    <main className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 sm:py-32 bg-foreground">
       {/* Image */}
       <section className="w-full flex items-center justify-center sm:ml-6">
         <div className="sm:w-3/5 w-4/5 max-sm:mb-10 relative">
