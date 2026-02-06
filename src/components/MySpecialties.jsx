@@ -20,7 +20,7 @@ const MySpecialties = () => {
   ];
   return (
     <>
-      <main className="container mx-auto sm:mt-30 mb-20 pt-1 pb-10">
+      <main className="container mx-auto sm:mt-10 mb-20 pt-1 pb-10">
         <div className="sm:my-16 my-8">
           <h1 className="text-center text-3xl sm:text-5xl font-semibold font-sans-serif">
             My Specialties
